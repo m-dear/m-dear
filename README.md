@@ -28,7 +28,7 @@ I'm a passionate learner diving into the exciting worlds of Artificial Intellige
 - [ ] Robotics Kinematics and Dynamics
 - [ ] Sensor Integration in Robotics
 - [ ] Robot Operating System (ROS)
--->
+
 # 💫 About Me:
 <br>I am who?<br>
 
