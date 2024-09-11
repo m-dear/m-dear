@@ -2,18 +2,13 @@
 
 ## About Me
 I'm a passionate learner diving into the exciting worlds of Artificial Intelligence and Robotics. Welcome to my GitHub profile!
-
-**DearMoeurn12/DearMoeurn12** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
 ## What I'm up to:
-
 - 🔭 I'm currently working on building my foundation in AI and Robotics
 - 🌱 I'm currently learning:
   - Machine Learning algorithms
   - Neural Networks and Deep Learning
   - Robotics fundamentals
   - Programming for AI (Python, TensorFlow, PyTorch)
-
 ## My Learning Path
 - [ ] Fundamentals of AI
 - [ ] Machine Learning Basics
@@ -23,7 +18,6 @@ I'm a passionate learner diving into the exciting worlds of Artificial Intellige
 - [ ] Robotics Kinematics and Dynamics
 - [ ] Sensor Integration in Robotics
 - [ ] Robot Operating System (ROS)
-
 # 💫 About Me:
 <br>I am who?<br>
 
