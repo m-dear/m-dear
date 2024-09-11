@@ -13,11 +13,6 @@ I'm a passionate learner diving into the exciting worlds of Artificial Intellige
   - Neural Networks and Deep Learning
   - Robotics fundamentals
   - Programming for AI (Python, TensorFlow, PyTorch)
-- 👯 I'm looking to collaborate on AI and Robotics projects for beginners
-- 🤔 I'm looking for help with understanding advanced AI concepts and robotics programming
-- 💬 Ask me about my learning journey in AI and Robotics
-- 📫 How to reach me: [Your preferred contact method]
-- ⚡ Fun fact: [An interesting fact related to AI or Robotics that you've learned]
 
 ## My Learning Path
 - [ ] Fundamentals of AI
