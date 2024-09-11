@@ -14,8 +14,7 @@ I'm a passionate learner diving into the exciting worlds of Artificial Intellige
 - [ ] Machine Learning Basics
 - [ ] Deep Learning and Neural Networks
 - [ ] Computer Vision
-- [ ] Natural Language Processing
-- [ ] Robotics Kinematics and Dynamics
+- [ ] Robotics
 - [ ] Sensor Integration in Robotics
 - [ ] Robot Operating System (ROS)
 # 💫 About Me:
