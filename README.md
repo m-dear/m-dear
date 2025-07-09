@@ -1,4 +1,4 @@
-# Hi there, I'm DearMoeurn12 👋
+# Hi there, I'm Dear Moeurn 👋
 
 ## About Me
 I'm a passionate learner diving into the exciting worlds of Artificial Intelligence and Robotics. Welcome to my GitHub profile!
