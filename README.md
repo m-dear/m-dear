@@ -24,6 +24,18 @@
   <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
+<h3>Hardware I work with</h3>
+<p>
+  <img alt="Universal Robots UR5e" src="https://img.shields.io/badge/-Universal%20Robots%20UR5e-0F172A?style=flat-square&logoColor=white" />
+  <img alt="FANUC CRX-5iA" src="https://img.shields.io/badge/-FANUC%20CRX--5iA-F59E0B?style=flat-square&logoColor=white" />
+  <img alt="Intel RealSense" src="https://img.shields.io/badge/-Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" />
+</p>
+
+<h3>Deployment and edge</h3>
+<p>
+  <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+</p>
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/m-dear" target="_blank">
