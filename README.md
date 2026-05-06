@@ -28,12 +28,21 @@
 <p>
   <img alt="Universal Robots UR5e" src="https://img.shields.io/badge/-Universal%20Robots%20UR5e-0F172A?style=flat-square&logoColor=white" />
   <img alt="FANUC CRX-5iA" src="https://img.shields.io/badge/-FANUC%20CRX--5iA-F59E0B?style=flat-square&logoColor=white" />
+  <img alt="TurtleBot3 Burger" src="https://img.shields.io/badge/-TurtleBot3%20Burger-2563EB?style=flat-square&logoColor=white" />
+  <img alt="Scout 2.0 AGV" src="https://img.shields.io/badge/-Scout%202.0%20AGV-475569?style=flat-square&logoColor=white" />
+  <img alt="Bunker AGV" src="https://img.shields.io/badge/-Bunker%20AGV-7C3AED?style=flat-square&logoColor=white" />
   <img alt="Intel RealSense" src="https://img.shields.io/badge/-Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" />
 </p>
 
 <h3>Deployment and edge</h3>
 <p>
   <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+</p>
+
+<h3>Training and compute</h3>
+<p>
+  <img alt="NVIDIA H100" src="https://img.shields.io/badge/-NVIDIA%20H100-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img alt="NVIDIA A100" src="https://img.shields.io/badge/-NVIDIA%20A100-84CC16?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
